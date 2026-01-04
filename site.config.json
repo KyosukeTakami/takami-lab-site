@@ -1,6 +1,6 @@
 {
   "lab": {
-    "name_ja": "高見研究室 / Takami Lab",
+    "name_ja": "大阪教育大学 数理・知能情報部門 高見研究室 / Takami Lab",
     "name_en": "Takami Lab",
     "tagline": "Learning Analytics × Educational AI × Data Science",
     "affiliation": "大阪教育大学",
@@ -9,7 +9,8 @@
     "social": {
       "researchmap": "https://researchmap.jp/takamikyo",
       "orcid": "",
-      "github": ""
+      "github": "",
+      "scholar": "https://scholar.google.com/citations?user=GTQ7-qMAAAAJ&hl=ja"
     }
   },
   "researchmap": {

@@ -30,6 +30,7 @@ const els = {
   labEmail: document.getElementById("labEmail"),
   labResearchmap: document.getElementById("labResearchmap"),
   labGithub: document.getElementById("labGithub"),
+  labScholar: document.getElementById("labScholar"),
 };
 
 function setTheme(theme) {
@@ -176,6 +177,9 @@ async function boot() {
   const gh = lab.social?.github || "";
   els.labGithub.href = gh || "#";
   els.labGithub.textContent = gh || "(set in site.config.json)";
+  const scholar = lab.social?.scholar || "";
+  els.labScholar.href = scholar || "#";
+  els.labScholar.textContent = scholar || "(set in site.config.json)";
 
   // 1) cached load
   const cached = await loadCachedData();
