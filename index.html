@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Takami Lab</title>
+  <meta name="description" content="Takami Lab – Learning Analytics × Educational AI × Data Science" />
+  <link rel="stylesheet" href="assets/styles.css" />
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-row">
+      <a class="brand" href="#top" id="top">
+        <span class="brand-mark" aria-hidden="true">◎</span>
+        <span class="brand-text">
+          <span class="brand-title" id="labName">Takami Lab</span>
+          <span class="brand-sub" id="labTagline">Learning Analytics × Educational AI</span>
+        </span>
+      </a>
+
+      <nav class="nav">
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#publications">Publications</a>
+        <a href="#talks">Talks</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+      <div class="header-actions">
+        <button class="btn ghost" id="toggleTheme" type="button" aria-label="Toggle theme">🌓</button>
+        <a class="btn" id="researchmapLink" href="https://researchmap.jp/takamikyo" target="_blank" rel="noreferrer">researchmap</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div class="hero-left">
+        <h1 id="heroTitle">Takami Lab</h1>
+        <p class="lead" id="heroLead">
+          学習ログ・テスト・行動データをもとに、教育を良くするための Learning Analytics と Educational AI を研究します。
+        </p>
+
+        <div class="hero-metrics" id="metrics">
+          <div class="metric">
+            <div class="metric-num" id="mPapers">–</div>
+            <div class="metric-label">Papers</div>
+          </div>
+          <div class="metric">
+            <div class="metric-num" id="mTalks">–</div>
+            <div class="metric-label">Talks</div>
+          </div>
+          <div class="metric">
+            <div class="metric-num" id="mProjects">–</div>
+            <div class="metric-label">Projects</div>
+          </div>
+        </div>
+
+        <div class="hero-cta">
+          <a class="btn primary" href="#publications">業績を見る</a>
+          <button class="btn" id="refreshBtn" type="button">researchmap から再取得</button>
+          <span class="muted" id="dataStatus"></span>
+        </div>
+      </div>
+
+      <div class="hero-right">
+        <div class="card glass">
+          <div class="card-title">最新アップデート</div>
+          <ul class="timeline" id="updates">
+            <li>researchmap の業績を自動同期して表示します。</li>
+            <li><span class="kbd">Ctrl</span>+<span class="kbd">K</span> で検索（公開ページ内）</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <div class="section-head">
+        <h2>About</h2>
+        <p class="muted">研究室紹介・方針・募集など（ここは手動で書き換えてOK）</p>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>Mission</h3>
+          <p>
+            学習のプロセスを可視化し、教師・学習者の意思決定を支える「説明可能な」教育AIを設計します。
+          </p>
+          <ul class="bullets">
+            <li>学習ログ / CBT / SNA / マルチモーダル</li>
+            <li>フィールド実装 & 評価（学校・自治体・企業と連携）</li>
+            <li>オープンなデータセット整備と再現可能性</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Join</h3>
+          <p>
+            研究・開発・実証に興味のある学生/共同研究者を歓迎します。
+            <br />テーマ：LLM×LA、学習者モデル、教師支援、教育データ基盤、評価設計など。
+          </p>
+          <div class="chips">
+            <span class="chip">Python</span>
+            <span class="chip">R</span>
+            <span class="chip">LLM</span>
+            <span class="chip">xAPI</span>
+            <span class="chip">TAO</span>
+            <span class="chip">Graph</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="research" class="section">
+      <div class="section-head">
+        <h2>Research</h2>
+        <p class="muted">ここは“イカした”見せ場：図・写真・プロジェクトカードを足してください。</p>
+      </div>
+
+      <div class="grid-3">
+        <div class="card">
+          <h3>Learning Analytics</h3>
+          <p>学習ログから学習過程をモデル化し、介入・フィードバックにつなげます。</p>
+        </div>
+        <div class="card">
+          <h3>Educational AI</h3>
+          <p>説明可能な推薦・生成AIを用いて、教師支援と個別最適化を実現します。</p>
+        </div>
+        <div class="card">
+          <h3>Data Infrastructure</h3>
+          <p>データ基盤・ベンチマーク・評価設計を整備し、現場導入を加速します。</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="publications" class="section">
+      <div class="section-head">
+        <h2>Publications</h2>
+        <div class="section-actions">
+          <input class="input" id="searchInput" type="search" placeholder="Search title / venue / year…" />
+          <select class="select" id="yearFilter">
+            <option value="">All years</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="list-head">
+          <span class="muted" id="pubCount">– items</span>
+          <a class="muted link" id="pubExport" href="#" download="publications.json">export json</a>
+        </div>
+        <ol class="publist" id="pubList">
+          <li class="muted">Loading…</li>
+        </ol>
+      </div>
+    </section>
+
+    <section id="talks" class="section">
+      <div class="section-head">
+        <h2>Talks / Presentations</h2>
+        <p class="muted">researchmap の「講演・口頭発表等」から自動生成</p>
+      </div>
+
+      <div class="card">
+        <ol class="publist" id="talkList">
+          <li class="muted">Loading…</li>
+        </ol>
+      </div>
+    </section>
+
+    <section id="projects" class="section">
+      <div class="section-head">
+        <h2>Projects / Grants</h2>
+        <p class="muted">researchmap の「共同研究・競争的資金等の研究課題」から自動生成</p>
+      </div>
+
+      <div class="grid-2" id="projectCards">
+        <div class="card muted">Loading…</div>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="section-head">
+        <h2>Contact</h2>
+        <p class="muted">メールと研究者ページへのリンク</p>
+      </div>
+
+      <div class="card">
+        <div class="contact-grid">
+          <div>
+            <div class="label">Affiliation</div>
+            <div id="labAffiliation">–</div>
+          </div>
+          <div>
+            <div class="label">Email</div>
+            <div><a id="labEmail" class="link" href="#">–</a></div>
+          </div>
+          <div>
+            <div class="label">researchmap</div>
+            <div><a id="labResearchmap" class="link" target="_blank" rel="noreferrer" href="#">–</a></div>
+          </div>
+          <div>
+            <div class="label">GitHub</div>
+            <div><a id="labGithub" class="link" target="_blank" rel="noreferrer" href="#">–</a></div>
+          </div>
+        </div>
+      </div>
+
+      <footer class="site-footer">
+        <div class="muted">
+          © <span id="yearNow"></span> <span id="footerLab">Takami Lab</span> · Built for GitHub Pages
+        </div>
+      </footer>
+    </section>
+  </main>
+
+  <script type="module" src="assets/app.js"></script>
+</body>
+</html>

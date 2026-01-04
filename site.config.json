@@ -1,0 +1,28 @@
+{
+  "lab": {
+    "name_ja": "高見研究室 / Takami Lab",
+    "name_en": "Takami Lab",
+    "tagline": "Learning Analytics × Educational AI × Data Science",
+    "affiliation": "大阪教育大学",
+    "location": "Japan",
+    "email": "you@example.com",
+    "social": {
+      "researchmap": "https://researchmap.jp/takamikyo",
+      "orcid": "",
+      "github": ""
+    }
+  },
+  "researchmap": {
+    "permalink": "takamikyo",
+    "baseUrl": "https://api.researchmap.jp",
+    "types": [
+      "published_papers",
+      "presentations",
+      "research_projects",
+      "awards"
+    ]
+  },
+  "ui": {
+    "maxItemsPerSection": 50
+  }
+}
