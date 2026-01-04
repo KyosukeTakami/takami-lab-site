@@ -1,0 +1,2729 @@
+[
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/50175602",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "50175602",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2025-05-16T07:02:12Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2025-07-29T02:26:20Z",
+    "paper_title": {
+      "ja": "Pilot Study of Self-explanation Based Automate Stuck Point Detection and Personalized Feed-back Recommendation by Educational eXplainable AI Tool in Middle School Math Classes"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Ryosuke Nakamoto"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead"
+    ],
+    "publication_date": "2025-07",
+    "publication_name": {
+      "ja": "Artificial Intelligence in Education, Practitioners Industry and Policy (PIP) track, AIED 2025"
+    },
+    "languages": [
+      "eng"
+    ],
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.1007/978-3-031-99261-2_11"
+      ],
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.1007/978-3-031-99261-2_11",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/50175565",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "50175565",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2025-05-16T06:58:21Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2025-07-20T13:46:44Z",
+    "paper_title": {
+      "en": "Evaluating Local LLMs on Japanese National University Entrance Examination Dataset in Comparison with Student Performance"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Satoshi Sekine"
+        },
+        {
+          "name": "Yusuke Miyao"
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead"
+    ],
+    "publication_date": "2025-07",
+    "publication_name": {
+      "en": "Proceedings of the 18th International Conference on Educational Data Mining , Palermo, Italy"
+    },
+    "starting_page": "582",
+    "ending_page": "585",
+    "languages": [
+      "eng"
+    ],
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.5281/zenodo.15870238"
+      ],
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.5281/zenodo.15870238",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/49738463",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "49738463",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2025-04-07T10:13:50Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2025-04-07T10:16:00Z",
+    "paper_title": {
+      "ja": "Examining motivational factors influencing self-explanation quality and mathematics achievement in online learning for junior high students"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Ryosuke Nakamoto"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "publication_date": "2025-04",
+    "publication_name": {
+      "ja": "Interactive Learning Environments"
+    },
+    "languages": [
+      "eng"
+    ],
+    "referee": true,
+    "published_paper_type": "scientific_journal",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.1080/10494820.2025.2484659"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.1080/10494820.2025.2484659",
+        "is_downloadable": false
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/48733617",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "48733617",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-12-18T05:50:04Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-12-18T05:50:04Z",
+    "paper_title": {
+      "en": "Do personal recommendations need to be personalized? Investigating the relationships between student differences and educational recommendations"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Heinz Ulrich Hoppe"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "publication_date": "2024-12",
+    "publication_name": {
+      "en": "Smart Learning Environments"
+    },
+    "volume": "11",
+    "number": "61",
+    "languages": [
+      "eng"
+    ],
+    "referee": true,
+    "invited": false,
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.1186/s40561-024-00349-y"
+      ],
+      "rm:research_project_id": [
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.1186/s40561-024-00349-y",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/47181618",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "47181618",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-07-23T01:52:00Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-12-16T08:59:12Z",
+    "paper_title": {
+      "ja": "Utilization of Japanese Public Educational Data by Retrieval Augmented Generation for Policy Research"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Kyosuke Takami"
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead",
+      "last",
+      "corresponding"
+    ],
+    "publication_date": "2024-11",
+    "publication_name": {
+      "ja": "32nd International Conference on Computers in Education Conference Proceedings (ICCE 2024)"
+    },
+    "referee": true,
+    "rm:is_open_access": false,
+    "identifiers": {
+      "rm:research_project_id": [
+        "42081300",
+        "42081302"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/47455692",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "47455692",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-08-20T09:36:32Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-08-20T09:37:58Z",
+    "paper_title": {
+      "ja": "Social and Emotional Modes of Learning Within Digital Ecosystems: Emerging Research Agendas"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Ola Erstad"
+        },
+        {
+          "name": "Miroslava Černochová"
+        },
+        {
+          "name": "Gerald Knezek"
+        },
+        {
+          "name": "Takahisa Furuta"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Changhao Liang"
+        }
+      ]
+    },
+    "publication_date": "2024-08-20",
+    "publication_name": {
+      "ja": "Technology, Knowledge and Learning"
+    },
+    "languages": [
+      "eng"
+    ],
+    "referee": true,
+    "published_paper_type": "scientific_journal",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.1007/s10758-024-09775-w"
+      ],
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.1007/s10758-024-09775-w",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/47182500",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "47182500",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-07-23T03:13:43Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-07-23T03:13:43Z",
+    "paper_title": {
+      "en": "LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "LLM-jp"
+        },
+        {
+          "name": ":"
+        },
+        {
+          "name": "Akiko Aizawa"
+        },
+        {
+          "name": "Eiji Aramaki"
+        },
+        {
+          "name": "Bowen Chen"
+        },
+        {
+          "name": "Fei Cheng"
+        },
+        {
+          "name": "Hiroyuki Deguchi"
+        },
+        {
+          "name": "Rintaro Enomoto"
+        },
+        {
+          "name": "Kazuki Fujii"
+        },
+        {
+          "name": "Kensuke Fukumoto"
+        },
+        {
+          "name": "Takuya Fukushima"
+        },
+        {
+          "name": "Namgi Han"
+        },
+        {
+          "name": "Yuto Harada"
+        },
+        {
+          "name": "Chikara Hashimoto"
+        },
+        {
+          "name": "Tatsuya Hiraoka"
+        },
+        {
+          "name": "Shohei Hisada"
+        },
+        {
+          "name": "Sosuke Hosokawa"
+        },
+        {
+          "name": "Lu Jie"
+        },
+        {
+          "name": "Keisuke Kamata"
+        },
+        {
+          "name": "Teruhito Kanazawa"
+        },
+        {
+          "name": "Hiroki Kanezashi"
+        },
+        {
+          "name": "Hiroshi Kataoka"
+        },
+        {
+          "name": "Satoru Katsumata"
+        },
+        {
+          "name": "Daisuke Kawahara"
+        },
+        {
+          "name": "Seiya Kawano"
+        },
+        {
+          "name": "Atsushi Keyaki"
+        },
+        {
+          "name": "Keisuke Kiryu"
+        },
+        {
+          "name": "Hirokazu Kiyomaru"
+        },
+        {
+          "name": "Takashi Kodama"
+        },
+        {
+          "name": "Takahiro Kubo"
+        },
+        {
+          "name": "Yohei Kuga"
+        },
+        {
+          "name": "Ryoma Kumon"
+        },
+        {
+          "name": "Shuhei Kurita"
+        },
+        {
+          "name": "Sadao Kurohashi"
+        },
+        {
+          "name": "Conglong Li"
+        },
+        {
+          "name": "Taiki Maekawa"
+        },
+        {
+          "name": "Hiroshi Matsuda"
+        },
+        {
+          "name": "Yusuke Miyao"
+        },
+        {
+          "name": "Kentaro Mizuki"
+        },
+        {
+          "name": "Sakae Mizuki"
+        },
+        {
+          "name": "Yugo Murawaki"
+        },
+        {
+          "name": "Ryo Nakamura"
+        },
+        {
+          "name": "Taishi Nakamura"
+        },
+        {
+          "name": "Kouta Nakayama"
+        },
+        {
+          "name": "Tomoka Nakazato"
+        },
+        {
+          "name": "Takuro Niitsuma"
+        },
+        {
+          "name": "Jiro Nishitoba"
+        },
+        {
+          "name": "Yusuke Oda"
+        },
+        {
+          "name": "Hayato Ogawa"
+        },
+        {
+          "name": "Takumi Okamoto"
+        },
+        {
+          "name": "Naoaki Okazaki"
+        },
+        {
+          "name": "Yohei Oseki"
+        },
+        {
+          "name": "Shintaro Ozaki"
+        },
+        {
+          "name": "Koki Ryu"
+        },
+        {
+          "name": "Rafal Rzepka"
+        },
+        {
+          "name": "Keisuke Sakaguchi"
+        },
+        {
+          "name": "Shota Sasaki"
+        },
+        {
+          "name": "Satoshi Sekine"
+        },
+        {
+          "name": "Kohei Suda"
+        },
+        {
+          "name": "Saku Sugawara"
+        },
+        {
+          "name": "Issa Sugiura"
+        },
+        {
+          "name": "Hiroaki Sugiyama"
+        },
+        {
+          "name": "Hisami Suzuki"
+        },
+        {
+          "name": "Jun Suzuki"
+        },
+        {
+          "name": "Toyotaro Suzumura"
+        },
+        {
+          "name": "Kensuke Tachibana"
+        },
+        {
+          "name": "Yu Takagi"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Koichi Takeda"
+        },
+        {
+          "name": "Masashi Takeshita"
+        },
+        {
+          "name": "Masahiro Tanaka"
+        },
+        {
+          "name": "Kenjiro Taura"
+        },
+        {
+          "name": "Arseny Tolmachev"
+        },
+        {
+          "name": "Nobuhiro Ueda"
+        },
+        {
+          "name": "Zhen Wan"
+        },
+        {
+          "name": "Shuntaro Yada"
+        },
+        {
+          "name": "Sakiko Yahata"
+        },
+        {
+          "name": "Yuya Yamamoto"
+        },
+        {
+          "name": "Yusuke Yamauchi"
+        },
+        {
+          "name": "Hitomi Yanaka"
+        },
+        {
+          "name": "Rio Yokota"
+        },
+        {
+          "name": "Koichiro Yoshino"
+        }
+      ]
+    },
+    "description": {
+      "en": "This paper introduces LLM-jp, a cross-organizational project for the research\nand development of Japanese large language models (LLMs). LLM-jp aims to\ndevelop open-source and strong Japanese LLMs, and as of this writing, more than\n1,500 participants from academia and industry are working together for this\npurpose. This paper presents the background of the establishment of LLM-jp,\nsummaries of its activities, and technical reports on the LLMs developed by\nLLM-jp. For the latest activities, visit https://llm-jp.nii.ac.jp/en/."
+    },
+    "publication_date": "2024-07-04",
+    "rm:is_open_access": true,
+    "identifiers": {
+      "arxiv_id": [
+        "arXiv:2407.03963"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "arxiv",
+        "@id": "http://arxiv.org/abs/arXiv:2407.03963",
+        "is_downloadable": false
+      },
+      {
+        "label": "url",
+        "@id": "http://arxiv.org/abs/2407.03963v1",
+        "is_downloadable": false
+      },
+      {
+        "label": "url",
+        "@id": "http://arxiv.org/pdf/2407.03963v1",
+        "is_downloadable": true
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/47181524",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "47181524",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-07-23T01:43:40Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-07-23T03:27:45Z",
+    "paper_title": {
+      "en": "Co-designing Data-Driven Educational Technology and Practice: Reflections from the Japanese Context"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Hiroaki Ogata"
+        },
+        {
+          "name": "Changhao Liang"
+        },
+        {
+          "name": "Yuko Toyokawa"
+        },
+        {
+          "name": "Chia-Yu Hsu"
+        },
+        {
+          "name": "Kohei Nakamura"
+        },
+        {
+          "name": "Taisei Yamauchi"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Izumi Horikoshi"
+        },
+        {
+          "name": "Rwitajit Majumdar"
+        }
+      ]
+    },
+    "description": {
+      "en": "Abstract\n\nThis paper explores co-design in Japanese education for deploying data-driven educational technology and practice. Although there is a growing emphasis on data to inform educational decision-making and personalize learning experiences, challenges such as data interoperability and inconsistency with teaching goals prevent practitioners from participating. Co-design, characterized by involving various stakeholders, is instrumental in addressing the evolving needs of technology deployment. Japan's educational context aligns with co-design implementation, with a learning and evidence analytics infrastructure facilitating data collection and analysis. From the Japanese co-design practice of educational technologies, the paper highlights a 6-phase co-design framework: motivate, pilot, implement, refine, evaluate, and maintain. The practices focus on data-driven learning strategies, technology interventions, and across-context dashboards, covering assorted learning contexts in Japan. By advocating for a co-design culture and data-driven approaches to enhance education in Japan, we offer insights for education practitioners, policymakers, researchers, and industry developers."
+    },
+    "publisher": {
+      "en": "Springer Science and Business Media LLC"
+    },
+    "publication_date": "2024-07-03",
+    "publication_name": {
+      "en": "Technology, Knowledge and Learning"
+    },
+    "referee": true,
+    "published_paper_type": "scientific_journal",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.1007/s10758-024-09759-w"
+      ],
+      "issn": [
+        "2211-1662"
+      ],
+      "e_issn": [
+        "2211-1670"
+      ],
+      "rm:research_project_id": [
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.1007/s10758-024-09759-w",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://link.springer.com/content/pdf/10.1007/s10758-024-09759-w.pdf",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://link.springer.com/article/10.1007/s10758-024-09759-w/fulltext.html",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/47181492",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "47181492",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-07-23T01:41:10Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-07-23T01:41:10Z",
+    "paper_title": {
+      "ja": "Rephrasing “Social Emotional Learning” using Quantitative Text Analysis"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Takahisa Furuta"
+        },
+        {
+          "name": "Ola Erstad"
+        },
+        {
+          "name": "Gerald Knezek"
+        },
+        {
+          "name": "Anantha Duraia"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Changhao Liang"
+        }
+      ]
+    },
+    "publication_date": "2024-07",
+    "publication_name": {
+      "ja": "EdMedia+ Innovate Learning"
+    },
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/47181433",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "47181433",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-07-23T01:33:55Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-07-23T03:39:44Z",
+    "paper_title": {
+      "ja": "Auto-Scoring of Math Self-Explanations by Combining Visual and Language Analysis"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Ryosuke Nakamoto"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "publication_date": "2024-07",
+    "publication_name": {
+      "ja": "The 24th International Conference on Advanced Learning Technologies (ICALT 2024)"
+    },
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/47181419",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "47181419",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-07-23T01:31:56Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-07-23T03:32:33Z",
+    "paper_title": {
+      "ja": "An Automated Impasse Detection System Based on the Analysis of Self- Explanations in Mathematics [Best Student Paper Nomination]]"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Ryosuke Nakamoto"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "publication_date": "2024-07",
+    "publication_name": {
+      "ja": "The 24th International Conference on Advanced Learning Technologies (ICALT 2024)"
+    },
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/45559010",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "45559010",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-02-08T02:22:28Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-02-08T02:22:28Z",
+    "paper_title": {
+      "en": "Evaluating the Effectiveness of Bayesian Knowledge Tracing Model-Based Explainable Recommender"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead"
+    ],
+    "description": {
+      "en": "<p>Explainable recommendation, which provides an explanation about why a quiz is recommended, helps to improve transparency, persuasiveness, and trustworthiness. However, little research examined the effectiveness of the explainable recommender, especially on academic performance. To survey its effectiveness, the authors evaluate the math academic performance among middle school students (n=115) by giving pre- and post-test questions based evaluation techniques. During the pre- and post-test periods, students were encouraged to use the Bayesian Knowledge Tracing model based explainable recommendation system. To evaluate how well the students were able to do what they could not do, the authors defined growth rate and found recommended quiz clicked counts had a positive effect on the total number of solved quizzes (R=0.343, P=0.005) and growth rate (R=0.297, P=0.017) despite no correlation between the total number of solved quizzes and growth rate. The results suggest that the use of an explainable recommendation system that learns efficiently will enable students to do what they could not do before.</p>"
+    },
+    "publisher": {
+      "en": "IGI Global"
+    },
+    "publication_date": "2024-02-07",
+    "publication_name": {
+      "en": "International Journal of Distance Education Technologies"
+    },
+    "volume": "22",
+    "number": "1",
+    "starting_page": "1",
+    "ending_page": "23",
+    "languages": [
+      "eng"
+    ],
+    "referee": true,
+    "published_paper_type": "scientific_journal",
+    "rm:is_open_access": true,
+    "identifiers": {
+      "doi": [
+        "10.4018/ijdet.337600"
+      ],
+      "issn": [
+        "1539-3100"
+      ],
+      "e_issn": [
+        "1539-3119"
+      ],
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.4018/ijdet.337600",
+        "is_downloadable": true
+      },
+      {
+        "@id": "https://www.igi-global.com/viewtitle.aspx?TitleId=337600",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/47416281",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "47416281",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_internal_feeds",
+    "rm:creator_type": "ai",
+    "rm:created": "2024-08-17T04:04:04Z",
+    "rm:modifier_id": "ai:assign_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2024-08-17T04:04:04Z",
+    "paper_title": {
+      "en": "Integrating self-explanation and operational data for impasse detection in mathematical learning."
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Ryosuke Nakamoto"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Taisei Yamauchi"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "publication_date": "2024",
+    "publication_name": {
+      "en": "Res. Pract. Technol. Enhanc. Learn."
+    },
+    "volume": "20",
+    "starting_page": "19",
+    "ending_page": "19",
+    "published_paper_type": "scientific_journal",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.58459/rptel.2025.20019"
+      ],
+      "dblp_id": [
+        "journals/rptel/NakamotoFDYTO24"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.58459/rptel.2025.20019",
+        "is_downloadable": false
+      },
+      {
+        "label": "DBLP",
+        "@id": "https://dblp.uni-trier.de/rec/journals/rptel/NakamotoFDYTO24",
+        "is_downloadable": false
+      },
+      {
+        "label": "url",
+        "@id": "https://dblp.uni-trier.de/db/journals/rptel/rptel20.html#NakamotoFDYTO24",
+        "is_downloadable": false
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/44231966",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "44231966",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-12-11T14:43:35Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-12-11T14:48:40Z",
+    "paper_title": {
+      "ja": "Personality-based tailored explainable recommendation for trustworthy smart learning system in the age of artificial intelligence",
+      "en": "Personality-based tailored explainable recommendation for trustworthy smart learning system in the age of artificial intelligence"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead"
+    ],
+    "publisher": {
+      "en": "Springer Science and Business Media LLC"
+    },
+    "publication_date": "2023-12",
+    "publication_name": {
+      "ja": "Smart Learning Environments"
+    },
+    "volume": "10",
+    "number": "65",
+    "languages": [
+      "eng"
+    ],
+    "referee": true,
+    "published_paper_type": "scientific_journal",
+    "is_international_journal": true,
+    "is_international_collaboration": false,
+    "rm:is_open_access": true,
+    "identifiers": {
+      "doi": [
+        "10.1186/s40561-023-00282-6"
+      ],
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.1186/s40561-023-00282-6",
+        "is_downloadable": true
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/43317714",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "43317714",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-09-04T11:02:21Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-12-03T12:18:35Z",
+    "paper_title": {
+      "ja": "Exploring ChatGPT Performance on PISA Multiple Choice Sample Questions Comparing English and Japanese Expression",
+      "en": "Exploring ChatGPT Performance on PISA Multiple Choice Sample Questions Comparing English and Japanese Expression"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Kyosuke Takami"
+        }
+      ],
+      "en": [
+        {
+          "name": "Kyosuke Takami"
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead",
+      "last",
+      "corresponding"
+    ],
+    "publication_date": "2023-12",
+    "publication_name": {
+      "ja": "The workshop “The Applications of Generative Artificial Intelligence (GAI) in Education” of the 31st International Conference on Computers in Education (ICCE 2023)",
+      "en": "The workshop “The Applications of Generative Artificial Intelligence (GAI) in Education” of the 31st International Conference on Computers in Education (ICCE 2023)"
+    },
+    "referee": true,
+    "rm:is_open_access": false,
+    "identifiers": {
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/43317693",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "43317693",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-09-04T10:59:00Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-12-03T12:18:56Z",
+    "paper_title": {
+      "ja": "Improved Automated Labeling of Mathematical Exercises in Japanese",
+      "en": "Improved Automated Labeling of Mathematical Exercises in Japanese"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Taisei Yamauchi"
+        },
+        {
+          "name": "Ryosuke Nakamoto"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ],
+      "en": [
+        {
+          "name": "Taisei Yamauchi"
+        },
+        {
+          "name": "Ryosuke Nakamoto"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "publication_date": "2023-12",
+    "publication_name": {
+      "ja": "31th International Conference on Computers in Education Conference Proceedings 2023",
+      "en": "31th International Conference on Computers in Education Conference Proceedings 2023"
+    },
+    "referee": true,
+    "rm:is_open_access": false,
+    "identifiers": {
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/43317647",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "43317647",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-09-04T10:52:34Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-12-03T12:19:25Z",
+    "paper_title": {
+      "ja": "Matching Intervention Messages Considering Complex Personality Types of High School Students",
+      "en": "Matching Intervention Messages Considering Complex Personality Types of High School Students"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Taisei Yamauchi"
+        },
+        {
+          "name": "Yuta Nakamizo"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Rwitajit Majumdar"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ],
+      "en": [
+        {
+          "name": "Taisei Yamauchi"
+        },
+        {
+          "name": "Yuta Nakamizo"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Rwitajit Majumdar"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "publication_date": "2023-12",
+    "publication_name": {
+      "ja": "31th International Conference on Computers in Education Conference Proceedings 2023",
+      "en": "31th International Conference on Computers in Education Conference Proceedings 2023"
+    },
+    "languages": [
+      "eng"
+    ],
+    "referee": true,
+    "rm:is_open_access": false,
+    "identifiers": {
+      "rm:research_project_id": [
+        "42081302"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/44125935",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "44125935",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_internal_feeds",
+    "rm:creator_type": "ai",
+    "rm:created": "2023-11-28T03:39:54Z",
+    "rm:modifier_id": "ai:assign_based_internal_feeds",
+    "rm:modifier_type": "ai",
+    "rm:modified": "2023-11-28T03:39:54Z",
+    "paper_title": {
+      "en": "Enhancing Self-Explanation Learning through a Real-Time Feedback System: An Empirical Evaluation Study"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Ryosuke Nakamoto"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Taisei Yamauchi"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "description": {
+      "en": "This research introduces the self-explanation-based automated feedback (SEAF) system, aimed at alleviating the teaching burden through real-time, automated feedback while aligning with SDG 4’s sustainability goals for quality education. The system specifically targets the enhancement of self-explanation, a proven but challenging cognitive strategy that bolsters both conceptual and procedural knowledge. Utilizing a triad of core feedback mechanisms—customized messages, quality assessments, and peer-generated exemplars—SEAF aims to fill the gap left by traditional and computer-aided self-explanation methods, which often require extensive preparation and may not provide effective scaffolding for all students. In a pilot study involving 50 junior high students, those with initially limited self-explanation skills showed significant improvement after using SEAF, achieving a moderate learning effect. A resounding 91.7% of participants acknowledged the system’s positive impact on their learning. SEAF’s automated capabilities serve dual purposes: they offer a more personalized and scalable approach to student learning while simultaneously reducing the educators’ workload related to feedback provision."
+    },
+    "publisher": {
+      "en": "MDPI AG"
+    },
+    "publication_date": "2023-11-02",
+    "publication_name": {
+      "en": "Sustainability"
+    },
+    "volume": "15",
+    "number": "21",
+    "starting_page": "15577",
+    "ending_page": "15577",
+    "published_paper_type": "scientific_journal",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.3390/su152115577"
+      ],
+      "e_issn": [
+        "2071-1050"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.3390/su152115577",
+        "is_downloadable": false
+      },
+      {
+        "label": "url",
+        "@id": "https://www.mdpi.com/2071-1050/15/21/15577/pdf",
+        "is_downloadable": false
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/43912038",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "43912038",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-10-31T02:38:10Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-10-31T02:39:18Z",
+    "paper_title": {
+      "en": "Enhancing Automated Scoring of Math Self-Explanation Quality Using LLM-Generated Datasets: A Semi-Supervised Approach"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Ryosuke Nakamoto"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Taisei Yamauchi"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "description": {
+      "en": "In the realm of mathematics education, self-explanation stands as a crucial learning mechanism, allowing learners to articulate their comprehension of intricate mathematical concepts and strategies. As digital learning platforms grow in prominence, there are mounting opportunities to collect and utilize mathematical self-explanations. However, these opportunities are met with challenges in automated evaluation. Automatic scoring of mathematical self-explanations is crucial for preprocessing tasks, including the categorization of learner responses, identification of common misconceptions, and the creation of tailored feedback and model solutions. Nevertheless, this task is hindered by the dearth of ample sample sets. Our research introduces a semi-supervised technique using the large language model (LLM), specifically its Japanese variant, to enrich datasets for the automated scoring of mathematical self-explanations. We rigorously evaluated the quality of self-explanations across five datasets, ranging from human-evaluated originals to ones devoid of original content. Our results show that combining LLM-based explanations with mathematical material significantly improves the model’s accuracy. Interestingly, there is an optimal limit to how many synthetic self-explanation data can benefit the system. Exceeding this limit does not further improve outcomes. This study thus highlights the need for careful consideration when integrating synthetic data into solutions, especially within the mathematics discipline."
+    },
+    "publisher": {
+      "en": "MDPI AG"
+    },
+    "publication_date": "2023-10-24",
+    "publication_name": {
+      "en": "Computers"
+    },
+    "volume": "12",
+    "number": "11",
+    "starting_page": "217",
+    "ending_page": "217",
+    "referee": true,
+    "published_paper_type": "scientific_journal",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.3390/computers12110217"
+      ],
+      "e_issn": [
+        "2073-431X"
+      ],
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.3390/computers12110217",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://www.mdpi.com/2073-431X/12/11/217/pdf",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/43864931",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "43864931",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-10-24T09:30:03Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-10-24T09:30:03Z",
+    "paper_title": {
+      "en": "Automated labeling of PDF mathematical exercises with word N-grams VSM classification"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Taisei Yamauchi"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Ryosuke Nakamoto"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "description": {
+      "en": "Abstract\n\nIn recent years, smart learning environments have become central to modern education and support students and instructors through tools based on prediction and recommendation models. These methods often use learning material metadata, such as the knowledge contained in an exercise which is usually labeled by domain experts and is costly and difficult to scale. It recognizes that automated labeling eases the workload on experts, as seen in previous studies using automatic classification algorithms for research papers and Japanese mathematical exercises. However, these studies didn’t delve into fine-grained labeling. In addition to that, as the use of materials in the system becomes more widespread, paper materials are transformed into PDF formats, which can lead to incomplete extraction. However, there is less emphasis on labeling incomplete mathematical sentences to tackle this problem in the previous research. This study aims to achieve precise automated classification even from incomplete text inputs. To tackle these challenges, we propose a mathematical exercise labeling algorithm that can handle detailed labels, even for incomplete sentences, using word n-grams, compared to the state-of-the-art word embedding method. The results of the experiment show that mono-gram features with Random Forest models achieved the best performance with a macro F-measure of 92.50%, 61.28% for 24-class labeling and 297-class labeling tasks, respectively. The contribution of this research is showing that the proposed method based on traditional simple n-grams has the ability to find context-independent similarities in incomplete sentences and outperforms state-of-the-art word embedding methods in specific tasks like classifying short and incomplete texts."
+    },
+    "publisher": {
+      "en": "Springer Science and Business Media LLC"
+    },
+    "publication_date": "2023-10-18",
+    "publication_name": {
+      "en": "Smart Learning Environments"
+    },
+    "volume": "10",
+    "number": "1",
+    "referee": true,
+    "published_paper_type": "scientific_journal",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.1186/s40561-023-00271-9"
+      ],
+      "e_issn": [
+        "2196-7091"
+      ],
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.1186/s40561-023-00271-9",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://link.springer.com/content/pdf/10.1186/s40561-023-00271-9.pdf",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://link.springer.com/article/10.1186/s40561-023-00271-9/fulltext.html",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/43470741",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "43470741",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-09-15T16:28:40Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-09-15T16:28:40Z",
+    "paper_title": {
+      "en": "Beyond recommendation acceptance: explanation’s learning effects in a math recommender system"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "description": {
+      "en": "Recommender systems can provide personalized advice on learning for individual students. Providing explanations of those recommendations are expected to increase the transparency and persuasiveness of the system, thus improve students’ adoption of the recommendation. Little research has explored the explanations’ practical effects on learning performance except for the acceptance of recommended learning activities. The recommendation explanations can improve the learning performance if the explanations are designed to contribute to relevant learning skills. This study conducted a comparative experiment (N = 276) in high school classrooms, aiming to investigate whether the use of an explainable math recommender system improves students’ learning performance. We found that the presence of the explanations had positive effects on students’ learning improvement and perceptions of the systems, but not the number of solved quizzes during the learning task. These results imply the possibility that the recommendation explanations may affect students’ meta-cognitive skills and their perceptions, which further contribute to students’ learning improvement. When separating the students based on their prior math abilities, we found a significant correlation between the number of viewed recommendations and the final learning improvement for the students with lower math abilities. This indicates that the students with lower math abilities may benefit from reading their learning progress indicated in the explanations. For students with higher math abilities, their learning improvement was more related to the behavior to select and solve recommended quizzes, which indicates a necessity of more sophisticated and interactive recommender system."
+    },
+    "publisher": {
+      "en": "Asia-Pacific Society for Computers in Education"
+    },
+    "publication_date": "2023-09-12",
+    "publication_name": {
+      "en": "Research and Practice in Technology Enhanced Learning"
+    },
+    "volume": "19",
+    "starting_page": "020",
+    "ending_page": "020",
+    "referee": true,
+    "invited": false,
+    "published_paper_type": "scientific_journal",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.58459/rptel.2024.19020"
+      ],
+      "e_issn": [
+        "1793-7078"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.58459/rptel.2024.19020",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://rptel.apsce.net/index.php/RPTEL/article/download/2024-19020/2024-19020",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/43220880",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "43220880",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-08-28T02:23:43Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-05-09T07:15:02Z",
+    "paper_title": {
+      "en": "EXAIT: Educational eXplainable Artificial Intelligent Tools for personalized learning"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Hiroaki Ogata"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Ryosuke Nakamoto"
+        },
+        {
+          "name": "Kensuke Takii"
+        }
+      ]
+    },
+    "description": {
+      "en": "As artificial intelligence systems increasingly make high-stakes recommendations and decisions automatically in many facets of our lives, the use of explainable artificial intelligence to inform stakeholders about the reasons behind such systems has been gaining much attention in a wide range of fields, including education. Also, in the field of education there has been a long history of research into self-explanation, where students explain the process of their answers. This has been recognized as a beneficial intervention to promote metacognitive skills, however, there is also unexplored potential to gain insight into the problems that learners experience due to inadequate prerequisite knowledge and skills that are required, or in the process of their application to the task at hand. While this aspect of self-explanation has been of interest to teachers, there is little research into the use of such information to inform educational AI systems. In this paper, we propose a system in which both students and the AI system explain to each other their reasons behind decisions that were made, such as: self-explanation of student cognition during the answering process, and explanation of recommendations based on internal mechanizes and other abstract representations of model algorithms."
+    },
+    "publisher": {
+      "en": "Asia-Pacific Society for Computers in Education"
+    },
+    "publication_date": "2023-08-28",
+    "publication_name": {
+      "en": "Research and Practice in Technology Enhanced Learning"
+    },
+    "volume": "19",
+    "starting_page": "019",
+    "ending_page": "019",
+    "referee": true,
+    "published_paper_type": "scientific_journal",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.58459/rptel.2024.19019"
+      ],
+      "e_issn": [
+        "1793-7078"
+      ],
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.58459/rptel.2024.19019",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://rptel.apsce.net/index.php/RPTEL/article/download/2024-19019/2024-19019",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/43119328",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "43119328",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-08-17T08:03:11Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-08-17T08:03:11Z",
+    "paper_title": {
+      "en": "Unsupervised techniques for generating a standard sample self-explanation answer with knowledge components in a math quiz"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Ryosuke Nakamoto"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "description": {
+      "en": "Self-explanation is a widely recognized and effective pedagogical method. Previous research has indicated that self-explanation can be used to evaluate students’ comprehension and identify their areas of difficulty on mathematical quizzes. However, most analytical techniques necessitate pre-labeled materials, which limits the potential for large-scale study. Conversely, utilizing collected self-explanations without supervision is challenging because there is little research on this topic. Therefore, this study aims to investigate the feasibility of automatically generating a standardized self-explanation sample answer from unsupervised collected self-explanations. The proposed model involves preprocessing and three machine learning steps: vectorization, clustering, and extraction. Experiments involving 1,434 self-explanation answers from 25 quizzes indicate that 72% of the quizzes generate sample answers containing all the necessary knowledge components. The similarity between human-generated and machine-generated sentences was significant with moderate positive correlation, r(23) = .48, p &lt; .05.The best-performing generative model also achieved a high BERTScore of 0.715. Regarding the readability of the generated sample answers, the average score of the human-generated sentences was superior to that of the machine-generated ones. These results suggest that the proposed model can generate sample answers that contain critical knowledge components and can be further improved with BERTScore. This study is expected to have numerous applications, including identifying students’ areas of difficulty, scoring self-explanations, presenting students with reference materials for learning, and automatically generating scaffolding templates to train self-explanation skills."
+    },
+    "publisher": {
+      "en": "Asia-Pacific Society for Computers in Education"
+    },
+    "publication_date": "2023-08-16",
+    "publication_name": {
+      "en": "Research and Practice in Technology Enhanced Learning"
+    },
+    "volume": "19",
+    "starting_page": "016",
+    "ending_page": "016",
+    "referee": true,
+    "published_paper_type": "scientific_journal",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.58459/rptel.2024.19016"
+      ],
+      "e_issn": [
+        "1793-7078"
+      ],
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.58459/rptel.2024.19016",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://rptel.apsce.net/index.php/RPTEL/article/download/2024-19016/2024-19016",
+        "label": "url",
+        "is_downloadable": false
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/42736497",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "42736497",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-07-06T05:39:43Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-07-06T05:39:43Z",
+    "paper_title": {
+      "ja": "Learning with Explainable AI-Recommendations at School: Extracting Patterns of Self-directed Learning from Learning Logs [Best Full Paper Nomination]",
+      "en": "Learning with Explainable AI-Recommendations at School: Extracting Patterns of Self-directed Learning from Learning Logs [Best Full Paper Nomination]"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Rwitajit Majumdar"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ],
+      "en": [
+        {
+          "name": "Rwitajit Majumdar"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "publication_date": "2023-07",
+    "publication_name": {
+      "ja": "The 23rd International Conference on Advanced Learning Technologies (ICALT 2023)",
+      "en": "The 23rd International Conference on Advanced Learning Technologies (ICALT 2023)"
+    },
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/41743283",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "41743283",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-03-15T06:58:17Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-03-17T11:28:29Z",
+    "paper_title": {
+      "ja": "Toward Trustworthy Explainable Recommendation: Personality Based Tailored Explanation for Improving E-learning Engagements and Motivation to Learn"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead"
+    ],
+    "publication_date": "2023-03",
+    "publication_name": {
+      "ja": "Companion Proceedings 13th International Conference on Learning Analytics & Knowledge (LAK23)"
+    },
+    "languages": [
+      "eng"
+    ],
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/41743234",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "41743234",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-03-15T06:55:07Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-03-15T17:50:18Z",
+    "paper_title": {
+      "ja": "Fusion of Explainable Recommender System and Open Learner Model"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Hiroaki, Ogata"
+        }
+      ]
+    },
+    "publication_date": "2023-03",
+    "publication_name": {
+      "ja": "Companion Proceedings 13th International Conference on Learning Analytics & Knowledge (LAK23)"
+    },
+    "languages": [
+      "eng"
+    ],
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/40588952",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "40588952",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-11-28T06:29:38Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-11-28T06:29:38Z",
+    "paper_title": {
+      "ja": "Automated Test Set Quiz Maker Optimizing Solving Time and Parameters of Bayesian Knowledge Tracing Model Extracted from Learning Log"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Kyosuke TAKAMI"
+        },
+        {
+          "name": "Gou MIYABEb"
+        },
+        {
+          "name": "Brendan FLANAGANa"
+        },
+        {
+          "name": "Hiroaki OGATA"
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead"
+    ],
+    "publication_date": "2022-11",
+    "publication_name": {
+      "ja": "30th International Conference on Computers in Education Conference Proceedings"
+    },
+    "referee": true,
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/40588919",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "40588919",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-11-28T06:26:59Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-11-28T06:27:33Z",
+    "paper_title": {
+      "ja": "Nudge Messages for E-Learning Engagement and Student’s Personality Traits: Effects and Implication for Personalization",
+      "en": "Nudge Messages for E-Learning Engagement and Student’s Personality Traits: Effects and Implication for Personalization"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Taisei YAMAUCHI"
+        },
+        {
+          "name": "Kyosuke TAKAMI"
+        },
+        {
+          "name": "Brendan FLANAGAN"
+        },
+        {
+          "name": "Hiroaki OGATA"
+        }
+      ]
+    },
+    "publication_date": "2022-11",
+    "publication_name": {
+      "ja": "30th International Conference on Computers in Education Conference Proceedings"
+    },
+    "referee": true,
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/40588870",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "40588870",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-11-28T06:23:09Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-11-28T06:25:21Z",
+    "paper_title": {
+      "ja": "Investigation on Practical Effects of the Explanation in a K-12 Math Recommender System",
+      "en": "Investigation on Practical Effects of the Explanation in a K-12 Math Recommender System"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Yiling DAI"
+        },
+        {
+          "name": "Kyosuke TAKAMI"
+        },
+        {
+          "name": "Brendan FLANAGAN"
+        },
+        {
+          "name": "Hiroaki OGATA"
+        }
+      ]
+    },
+    "publication_date": "2022-11",
+    "publication_name": {
+      "ja": "30th International Conference on Computers in Education Conference Proceedings",
+      "en": "30th International Conference on Computers in Education Conference Proceedings"
+    },
+    "referee": true,
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/39163840",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "39163840",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-07-26T02:41:08Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-07-26T02:55:39Z",
+    "paper_title": {
+      "ja": "An Automatic Self-explanation Sample Answer Generation with Knowledge Components in a Math Quiz"
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Nakamoto, R"
+        },
+        {
+          "name": "Flanagan, B"
+        },
+        {
+          "name": "Dai, Y"
+        },
+        {
+          "name": "Takami, K"
+        },
+        {
+          "name": "Ogata, H"
+        }
+      ]
+    },
+    "publication_date": "2022-07",
+    "publication_name": {
+      "ja": "International Conference on Artificial Intelligence in Education (AIED 2022)"
+    },
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.1007/978-3-031-11647-6_46"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.1007/978-3-031-11647-6_46",
+        "is_downloadable": false
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/35980496",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "35980496",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-12-03T05:34:53Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-03-25T06:21:44Z",
+    "paper_title": {
+      "en": "Educational Explainable Recommender Usage and its Effectiveness in High School Summer Vacation Assignment"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead"
+    ],
+    "publisher": {
+      "en": "ACM"
+    },
+    "publication_date": "2022-03-21",
+    "publication_name": {
+      "en": "LAK22: 12th International Learning Analytics and Knowledge Conference"
+    },
+    "starting_page": "458",
+    "ending_page": "464",
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": true,
+    "identifiers": {
+      "doi": [
+        "10.1145/3506860.3506882"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.1145/3506860.3506882",
+        "is_downloadable": true
+      },
+      {
+        "@id": "https://dl.acm.org/doi/pdf/10.1145/3506860.3506882",
+        "label": "url",
+        "is_downloadable": false
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/36221905",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "36221905",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-01-17T02:44:18Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-03-29T14:47:22Z",
+    "paper_title": {
+      "ja": "Preliminary Personal Trait Prediction from High school Summer Vacation e-learning Behavior.",
+      "en": "Preliminary Personal Trait Prediction from High school Summer Vacation e-learning Behavior."
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Takami, K"
+        },
+        {
+          "name": "Flanagan, B"
+        },
+        {
+          "name": "Majumdar, R"
+        },
+        {
+          "name": "Ogata, H"
+        }
+      ],
+      "en": [
+        {
+          "name": "Takami, K"
+        },
+        {
+          "name": "Flanagan, B"
+        },
+        {
+          "name": "Majumdar, R"
+        },
+        {
+          "name": "Ogata, H"
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead"
+    ],
+    "publication_date": "2022-03",
+    "publication_name": {
+      "ja": "Companion Proceedings of the 12th International Conference on Learning Analytics and Knowledge.",
+      "en": "Companion Proceedings of the 12th International Conference on Learning Analytics and Knowledge."
+    },
+    "referee": true,
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/36221899",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "36221899",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-01-17T02:41:49Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-03-31T06:55:50Z",
+    "paper_title": {
+      "ja": "Interpretable Math Quiz Recommender System for Japanese High School Students.",
+      "en": "Interpretable Math Quiz Recommender System for Japanese High School Students."
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Dai, Y"
+        },
+        {
+          "name": "Flanagan, B"
+        },
+        {
+          "name": "Takami, K"
+        },
+        {
+          "name": "Ogata, H"
+        }
+      ]
+    },
+    "publication_date": "2022-03",
+    "publication_name": {
+      "ja": "Companion Proceedings of the 12th International Conference on Learning Analytics and Knowledge.",
+      "en": "Companion Proceedings of the 12th International Conference on Learning Analytics and Knowledge."
+    },
+    "referee": true,
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/34051482",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "34051482",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-10-16T15:34:19Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-01-17T03:02:13Z",
+    "paper_title": {
+      "ja": "Toward Educational Explainable Recommender System: Explanation Generation based on Bayesian Knowledge Tracing Parameters.",
+      "en": "Toward Educational Explainable Recommender System: Explanation Generation based on Bayesian Knowledge Tracing Parameters."
+    },
+    "authors": {
+      "ja": [
+        {
+          "name": "Takami, K."
+        },
+        {
+          "name": "Flanagan, B."
+        },
+        {
+          "name": "Dai, Y."
+        },
+        {
+          "name": "Ogata, H."
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead"
+    ],
+    "publication_date": "2021-11",
+    "publication_name": {
+      "ja": "29th International Conference on Computers in Education Conference Proceedings.",
+      "en": "29th International Conference on Computers in Education Conference Proceedings."
+    },
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/34051467",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "34051467",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-10-16T15:28:34Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-01-17T03:02:54Z",
+    "paper_title": {
+      "en": "Identifying Students’ Stuck Points Using Self-Explanations and Pen Stroke Data in a Mathematics Quiz."
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Nakamoto R."
+        },
+        {
+          "name": "Flanagan B."
+        },
+        {
+          "name": "Takami K."
+        },
+        {
+          "name": "Dai Y."
+        },
+        {
+          "name": "Ogata H."
+        }
+      ]
+    },
+    "publication_date": "2021-11",
+    "publication_name": {
+      "en": "29th International Conference on Computers in Education Conference Proceedings."
+    },
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/37808563",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "37808563",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "ai:assign_based_internal_feeds",
+    "rm:creator_type": "ai",
+    "rm:created": "2022-07-01T09:36:09Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-07-01T13:12:55Z",
+    "paper_title": {
+      "en": "EXAIT: A Symbiotic Explanation Learning System"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Kensuke Takii"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Rwitajit Majumdar"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "publication_date": "2021",
+    "publication_name": {
+      "en": "29TH INTERNATIONAL CONFERENCE ON COMPUTERS IN EDUCATION (ICCE 2021), VOL I"
+    },
+    "starting_page": "404",
+    "ending_page": "409",
+    "languages": [
+      "eng"
+    ],
+    "referee": true,
+    "published_paper_type": "international_conference_proceedings",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "wos_id": [
+        "WOS:000772144100059"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "web_of_science",
+        "@id": "https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=JSTA_CEL&SrcApp=J_Gate_JST&DestLinkType=FullRecord&KeyUT=WOS:000772144100059&DestApp=WOS_CPL",
+        "is_downloadable": false
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/32104970",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "32104970",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-04-03T05:52:23Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2021-04-03T11:53:23Z",
+    "paper_title": {
+      "en": "Dissociable behavioral and neural correlates for target-changing and conforming behaviors in interpersonal aggression"
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Masahiko Haruno"
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead"
+    ],
+    "publication_date": "2020-05",
+    "publication_name": {
+      "en": "eNeuro"
+    },
+    "volume": "7",
+    "number": "3",
+    "starting_page": "1",
+    "ending_page": "13",
+    "referee": true,
+    "published_paper_type": "scientific_journal",
+    "rm:is_open_access": true,
+    "identifiers": {
+      "doi": [
+        "10.1523/ENEURO.0273-19.2020"
+      ],
+      "e_issn": [
+        "2373-2822"
+      ],
+      "pm_id": [
+        "32381647"
+      ],
+      "scopus_id": [
+        "85086419716"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.1523/ENEURO.0273-19.2020",
+        "is_downloadable": false
+      },
+      {
+        "label": "pubmed",
+        "@id": "https://www.ncbi.nlm.nih.gov/pubmed/32381647",
+        "is_downloadable": false
+      },
+      {
+        "label": "scopus",
+        "@id": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85086419716&origin=inward",
+        "is_downloadable": true
+      },
+      {
+        "label": "scopus_citedby",
+        "@id": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85086419716&origin=inward",
+        "is_downloadable": false
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/published_papers/32104902",
+    "@type": "published_papers",
+    "@reverse": "https://api.researchmap.jp/takamikyo/published_papers",
+    "rm:id": "32104902",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-04-03T05:45:09Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2021-04-03T11:54:10Z",
+    "paper_title": {
+      "en": "Behavioral and functional connectivity basis for peer-influenced bystander participation in bullying."
+    },
+    "authors": {
+      "en": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Masahiko Haruno"
+        }
+      ]
+    },
+    "published_paper_owner_roles": [
+      "lead"
+    ],
+    "description": {
+      "en": "Recent studies have shown that the reactions of bystanders who witness bullying significantly affect whether the bullying persists. However, the underlying behavioral and neural mechanisms that determine a peer-influenced bystander's participation in bullying remain largely unknown. Here, we designed a new 'catch-ball' task where four players choose to throw a sequence of normal or strong (aggressive) balls in turn and examined whether the players (n = 43) participated in other players' bullying. We analyzed behaviors with a computational model that quantifies the tendencies of a participant's (i) baseline propensity for bullying, (ii) reactive revenge, (iii) conformity to bullying, and (iv) capitulation to threat and estimated these effects on the choice of balls. We found only conformity had a positive effect on the throwing of strong balls. Furthermore, we identified a correlation between a participant's conformity and social anxiety. Our mediation analysis of resting-state functional magnetic resonance imaging revealed that there were significant relationships of each participant's functional connectivity between the amygdala and right temporoparietal junction (TPJ) and social anxiety to the participant's conformity to bullying. We also found that amygdala-TPJ connectivity partially mediated the relationship between social anxiety and conformity. These results highlighted the anxiety-based conformity and amygdala network on peer-influenced bystander participation in bullying."
+    },
+    "publication_date": "2019-01-04",
+    "publication_name": {
+      "en": "Social cognitive and affective neuroscience"
+    },
+    "volume": "14",
+    "number": "1",
+    "starting_page": "23",
+    "ending_page": "33",
+    "languages": [
+      "eng"
+    ],
+    "referee": true,
+    "published_paper_type": "scientific_journal",
+    "is_international_journal": true,
+    "rm:is_open_access": false,
+    "identifiers": {
+      "doi": [
+        "10.1093/scan/nsy109"
+      ],
+      "pm_id": [
+        "30481351"
+      ],
+      "pmc_id": [
+        "PMC6348439"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "doi",
+        "@id": "https://doi.org/10.1093/scan/nsy109",
+        "is_downloadable": false
+      },
+      {
+        "label": "pubmed",
+        "@id": "https://www.ncbi.nlm.nih.gov/pubmed/30481351",
+        "is_downloadable": false
+      },
+      {
+        "label": "pmc",
+        "@id": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6348439",
+        "is_downloadable": false
+      }
+    ]
+  }
+]

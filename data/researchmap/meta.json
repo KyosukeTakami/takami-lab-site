@@ -1,0 +1,13 @@
+{
+  "fetchedAt": "2026-01-04T16:12:51.935Z",
+  "permalink": "takamikyo",
+  "baseUrl": "https://api.researchmap.jp",
+  "types": [
+    "published_papers",
+    "presentations",
+    "research_projects",
+    "awards"
+  ],
+  "source": "github-actions-cache",
+  "itemsTotal": 57
+}

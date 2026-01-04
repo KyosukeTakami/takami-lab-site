@@ -1,0 +1,43 @@
+[
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/awards/41765478",
+    "@type": "awards",
+    "@reverse": "https://api.researchmap.jp/takamikyo/awards",
+    "rm:id": "41765478",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-03-17T15:47:33Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-03-17T16:47:43Z",
+    "award_name": {
+      "en": "Honorable Mention Poster the 13th International Learning Analytics and Knowledge Conference (LAK23)"
+    },
+    "winners": {
+      "en": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Brendan Flanagan"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Hiroaki Ogata"
+        }
+      ]
+    },
+    "award_title": {
+      "en": "Toward Trustworthy Explainable Recommendation: Personality Based Tailored Explanation for Improving E-learning Engagements and Motivation to Learn"
+    },
+    "association": {
+      "en": "SOCIETY for LEARNING ANALYTICS RESEARCH (SOLAR)"
+    },
+    "award_date": "2023-03"
+  }
+]

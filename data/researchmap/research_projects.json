@@ -1,0 +1,390 @@
+[
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/takamikyo/research_projects",
+    "rm:id": "42081302",
+    "rm:user_id": "R000019012",
+    "identifiers_id_modified": "2025-07-29 02:26:20",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-04-19T10:57:24Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-04-19T10:58:48Z",
+    "research_project_title": {
+      "ja": "教育データAI利活用による学習者・教師の問題作成・共有支援システムの研究開発"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "高見 享佑"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 若手研究"
+    },
+    "category": {
+      "ja": "若手研究"
+    },
+    "institution_name": {
+      "ja": "国立教育政策研究所"
+    },
+    "from_date": "2023-04",
+    "to_date": "2027-03",
+    "research_project_owner_role": "principal_investigator",
+    "overall_grant_amount": {
+      "total_cost": "4810000",
+      "direct_cost": "3700000",
+      "indirect_cost": "1110000"
+    },
+    "identifiers": {
+      "grant_number": [
+        "23K17012"
+      ],
+      "national_grant_number": [
+        "JP23K17012"
+      ],
+      "rm:published_paper_id": [
+        "50175602",
+        "50175565",
+        "47181618",
+        "47455692",
+        "47181433",
+        "47181419",
+        "45559010",
+        "44231966",
+        "43317714",
+        "43317693",
+        "43317647",
+        "43912038",
+        "43864931",
+        "43220880",
+        "43119328"
+      ],
+      "rm:presentation_id": [
+        "48164865",
+        "47694713",
+        "45639819",
+        "44509498",
+        "44169464"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K17012"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/50175602"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/50175565"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/47181618"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/47455692"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/47181433"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/47181419"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/45559010"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/44231966"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43317714"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43317693"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43317647"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43912038"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43864931"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43220880"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43119328"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/takamikyo/presentations/48164865"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/takamikyo/presentations/47694713"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/takamikyo/presentations/45639819"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/takamikyo/presentations/44509498"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/takamikyo/presentations/44169464"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/takamikyo/research_projects",
+    "rm:id": "42081300",
+    "rm:user_id": "R000019012",
+    "identifiers_id_modified": "2025-07-29 02:26:20",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-04-19T10:56:53Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-08-20T22:01:08Z",
+    "research_project_title": {
+      "ja": "Extraction and Use of Highly Explainable and Transferable Indicators for AI in Education"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "Flanagan Brendan"
+        },
+        {
+          "name": "Majumdar Rwito"
+        },
+        {
+          "name": "Yiling Dai"
+        },
+        {
+          "name": "Kyosuke Takami"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "日本学術振興会"
+    },
+    "system_name": {
+      "ja": "科学研究費助成事業 基盤研究(B)"
+    },
+    "category": {
+      "ja": "基盤研究(B)"
+    },
+    "institution_name": {
+      "ja": "京都大学"
+    },
+    "from_date": "2023-04",
+    "to_date": "2026-03",
+    "research_project_owner_role": "coinvestigator",
+    "overall_grant_amount": {
+      "total_cost": "18850000",
+      "direct_cost": "14500000",
+      "indirect_cost": "4350000"
+    },
+    "identifiers": {
+      "grant_number": [
+        "23H01001"
+      ],
+      "national_grant_number": [
+        "JP23H01001"
+      ],
+      "rm:published_paper_id": [
+        "50175602",
+        "50175565",
+        "48733617",
+        "47181618",
+        "47455692",
+        "47181524",
+        "47181433",
+        "47181419",
+        "45559010",
+        "44231966",
+        "43317714",
+        "43317693",
+        "43912038",
+        "43864931",
+        "43220880",
+        "43119328"
+      ],
+      "rm:presentation_id": [
+        "48164865",
+        "47694713",
+        "45639819",
+        "44509498",
+        "44169464"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "kaken",
+        "@id": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H01001"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/50175602"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/50175565"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/48733617"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/47181618"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/47455692"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/47181524"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/47181433"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/47181419"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/45559010"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/44231966"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43317714"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43317693"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43912038"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43864931"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43220880"
+      },
+      {
+        "label": "rm:published_papers",
+        "@id": "https://api.researchmap.jp/takamikyo/published_papers/43119328"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/takamikyo/presentations/48164865"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/takamikyo/presentations/47694713"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/takamikyo/presentations/45639819"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/takamikyo/presentations/44509498"
+      },
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/takamikyo/presentations/44169464"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/research_projects/32107445",
+    "@type": "research_projects",
+    "@reverse": "https://api.researchmap.jp/takamikyo/research_projects",
+    "rm:id": "32107445",
+    "rm:user_id": "R000019012",
+    "identifiers_id_modified": "2025-12-14 14:14:02",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-04-03T10:56:55Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-04-19T12:06:21Z",
+    "research_project_title": {
+      "ja": "社会脳科学による「いじめ」ソーシャルネットワークの予測"
+    },
+    "investigators": {
+      "ja": [
+        {
+          "name": "高見享佑"
+        }
+      ]
+    },
+    "offer_organization": {
+      "ja": "科学技術振興機構"
+    },
+    "system_name": {
+      "ja": "2020年度 AIPチャレンジ"
+    },
+    "from_date": "2020-06",
+    "to_date": "2021-03",
+    "research_project_owner_role": "principal_investigator",
+    "identifiers": {
+      "rm:presentation_id": [
+        "51855572"
+      ]
+    },
+    "see_also": [
+      {
+        "label": "rm:presentations",
+        "@id": "https://api.researchmap.jp/takamikyo/presentations/51855572"
+      }
+    ]
+  }
+]

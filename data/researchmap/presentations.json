@@ -1,0 +1,711 @@
+[
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/51855572",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "51855572",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2025-12-14T14:08:46Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2025-12-14T14:14:02Z",
+    "presentation_title": {
+      "ja": "教育データサイエンスで解き明かす いじめ・不登校"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "高見享佑"
+        }
+      ]
+    },
+    "event": {
+      "ja": "日本教育心理学会第 67 回総会"
+    },
+    "publication_date": "2025-10-12",
+    "invited": true,
+    "languages": [
+      "jpn"
+    ],
+    "presentation_type": "public_symposium",
+    "dataset": {
+      "dataset_name": "67_138.pdf",
+      "access_url": "https://researchmap.jp/takamikyo/presentations/51855572/attachment_file.pdf",
+      "rm:media_type": "application/pdf",
+      "rm:use_password": false,
+      "thumbnail_url": "https://researchmap.jp/takamikyo/presentations/51855572/attachment_file.pdf?thumbnail"
+    },
+    "promoter": {
+      "ja": "日本教育心理学会"
+    },
+    "description": {
+      "ja": "いじめの通報・相談・気付き・見守りのためのアプリと統合的データ解析の可能性\n戸田 有一, 金綱 知征, 隈 有子, 山本 博樹, 高見 享佑"
+    },
+    "rm:is_open_access": true,
+    "identifiers": {
+      "rm:research_project_id": [
+        "32107445"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://doi.org/10.20587/pamjaep.67.0_138",
+        "label": "url",
+        "is_downloadable": true
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/32107445",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/50560960",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "50560960",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2025-07-07T02:11:50Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2025-07-07T02:12:56Z",
+    "presentation_title": {
+      "ja": "Exploring Classroom Climate and Personality in Adolescent Social Networks: Implications for Anti-Bullying Interventions",
+      "en": "Exploring Classroom Climate and Personality in Adolescent Social Networks: Implications for Anti-Bullying Interventions"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Masahiko Haruno"
+        }
+      ],
+      "en": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Masahiko Haruno"
+        }
+      ]
+    },
+    "event": {
+      "ja": "World Anti-Bullying Forum 2025"
+    },
+    "publication_date": "2025-06",
+    "invited": false,
+    "languages": [
+      "eng"
+    ],
+    "presentation_type": "poster_presentation",
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/48510654",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "48510654",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-11-22T01:12:41Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-11-22T01:17:43Z",
+    "presentation_title": {
+      "ja": "AI時代の教育データ利活用による学びの可能性 ～研究と実践～ 趣旨説明 パネル・モデレーター"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "高見享佑"
+        }
+      ]
+    },
+    "event": {
+      "ja": "国立教育政策研究所 令和６年度教育研究公開シンポジウム"
+    },
+    "publication_date": "2024-11-09",
+    "languages": [
+      "jpn"
+    ],
+    "presentation_type": "nominated_symposium",
+    "dataset": {
+      "dataset_name": "flyer_20240918-01 (1).pdf",
+      "access_url": "https://researchmap.jp/takamikyo/presentations/48510654/attachment_file.pdf",
+      "rm:media_type": "application/pdf",
+      "rm:use_password": false,
+      "thumbnail_url": "https://researchmap.jp/takamikyo/presentations/48510654/attachment_file.pdf?thumbnail"
+    },
+    "promoter": {
+      "ja": "文部科学省国立教育政策研究所"
+    },
+    "location": {
+      "ja": "文部科学省３階講堂"
+    },
+    "description": {
+      "ja": "GIGAスクール構想により教育のICT環境の整備と教育DX化が進み、教育データを教育政策や学校における実践に役立てることが期待されています。\n 本シンポジウムでは、研究者、学校関係者、自治体の政策立案者などの異なるステークホルダーをお招きし、教育データの利活用に関する研究と実践のサイクルを紹介し、AI時代における今後の教育データ利活用の可能性について議論することで、データ駆動型教育の推進に資することを目的とします。"
+    },
+    "rm:is_open_access": true,
+    "see_also": [
+      {
+        "is_downloadable": true,
+        "@id": "https://www.nier.go.jp/06_jigyou/symposium/sympo_r06_02/",
+        "label": "url"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/48164865",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "48164865",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-10-10T06:30:22Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-10-10T06:53:24Z",
+    "presentation_title": {
+      "ja": "Digital Transformation and the Utilization of Educational Data in the Age of AI"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "Kyosuke Takami"
+        }
+      ]
+    },
+    "event": {
+      "ja": "G20 Education Dialogue Education, Technology and Quality Growth in the Digital Era, Beijing, China"
+    },
+    "publication_date": "2024-10-10",
+    "from_event_date": "2024-10-10",
+    "to_event_date": "2024-10-12",
+    "invited": true,
+    "languages": [
+      "eng"
+    ],
+    "presentation_type": "invited_oral_presentation",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/47694713",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "47694713",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-09-08T09:54:57Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-09-08T09:54:57Z",
+    "presentation_title": {
+      "ja": "全国学力・学習状況調査問題による LLM 評価データセット構築に向けて",
+      "en": "Towards the Construction of an LLM Evaluation Dataset Based on the National Academic Achievement and Learning Situation Survey"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "高見享佑"
+        },
+        {
+          "name": "宮尾祐介"
+        },
+        {
+          "name": "関根聡"
+        },
+        {
+          "name": "相澤彰子"
+        },
+        {
+          "name": "黒橋禎夫"
+        }
+      ],
+      "en": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Yusuke Miyao"
+        },
+        {
+          "name": "Satoshi Sekine"
+        },
+        {
+          "name": "Akiko Aizawa"
+        },
+        {
+          "name": "Sadao Kurohashi"
+        }
+      ]
+    },
+    "event": {
+      "ja": "日本教育工学会 2024年秋季全国大会"
+    },
+    "publication_date": "2024-09-08",
+    "invited": false,
+    "languages": [
+      "jpn"
+    ],
+    "presentation_type": "poster_presentation",
+    "dataset": {
+      "dataset_name": "jset-2024-autumn-takami.pdf",
+      "dataset_type": "published",
+      "access_url": "https://researchmap.jp/takamikyo/presentations/47694713/attachment_file.pdf",
+      "rm:media_type": "application/pdf",
+      "rm:use_password": false,
+      "thumbnail_url": "https://researchmap.jp/takamikyo/presentations/47694713/attachment_file.pdf?thumbnail"
+    },
+    "rm:is_open_access": false,
+    "identifiers": {
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/45639819",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "45639819",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-02-22T00:54:10Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-02-22T02:49:46Z",
+    "presentation_title": {
+      "ja": "教育データとAIが創る学びの可能性"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "高見享佑"
+        }
+      ]
+    },
+    "event": {
+      "ja": "法政大学情報メディア教育研究センターシンポジウム2024 AIと教育"
+    },
+    "publication_date": "2024-02-20",
+    "invited": true,
+    "presentation_type": "public_discourse",
+    "dataset": {
+      "dataset_name": "法政大学シンポジウム2014_高見_final.pdf",
+      "access_url": "https://researchmap.jp/takamikyo/presentations/45639819/attachment_file.pdf",
+      "rm:media_type": "application/pdf",
+      "rm:use_password": false,
+      "thumbnail_url": "https://researchmap.jp/takamikyo/presentations/45639819/attachment_file.pdf?thumbnail"
+    },
+    "rm:is_open_access": true,
+    "identifiers": {
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/44509498",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "44509498",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2024-01-24T02:04:51Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2024-01-24T02:04:51Z",
+    "presentation_title": {
+      "ja": "教育データサイエンス：データの利活用から見える学びの最前線"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "高見享佑"
+        }
+      ]
+    },
+    "event": {
+      "ja": "私学マネジメント定例セミナー"
+    },
+    "publication_date": "2024-01-23",
+    "invited": true,
+    "presentation_type": "public_discourse",
+    "rm:is_open_access": false,
+    "identifiers": {
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/44169464",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "44169464",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-12-03T12:22:54Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-12-03T12:24:57Z",
+    "presentation_title": {
+      "ja": "教育データサイエンス： AIとデータが導く未来の学び"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "高見享佑"
+        }
+      ]
+    },
+    "event": {
+      "ja": "オンラインラーニングフォーラム2023"
+    },
+    "publication_date": "2023-11-01",
+    "invited": true,
+    "rm:is_open_access": false,
+    "identifiers": {
+      "rm:research_project_id": [
+        "42081302",
+        "42081300"
+      ]
+    },
+    "see_also": [
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081302",
+        "label": "rm:research_project_id"
+      },
+      {
+        "@id": "https://api.researchmap.jp/takamikyo/research_projects/42081300",
+        "label": "rm:research_project_id"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/42374039",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "42374039",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-05-24T06:37:07Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-05-24T06:37:07Z",
+    "presentation_title": {
+      "ja": "公教育データ・プラットフォームについて"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "高見享佑"
+        }
+      ]
+    },
+    "event": {
+      "ja": "第4回SIG研究会（SIG1/5研究会 テーマ：「教育データプラットフォームの展開」 ）"
+    },
+    "publication_date": "2023-05-21",
+    "invited": true,
+    "languages": [
+      "jpn"
+    ],
+    "presentation_type": "public_discourse",
+    "dataset": {
+      "dataset_name": "EDE20230522(公開資料）.pdf",
+      "access_url": "https://researchmap.jp/takamikyo/presentations/42374039/attachment_file.pdf",
+      "rm:media_type": "application/pdf",
+      "rm:use_password": false,
+      "thumbnail_url": "https://researchmap.jp/takamikyo/presentations/42374039/attachment_file.pdf?thumbnail"
+    },
+    "promoter": {
+      "ja": "一般社団法人エビデンス駆動型教育研究協議会・ITコンソーシアム京都・法政大学情報メディア教育研究センター"
+    },
+    "location": {
+      "ja": "オンライン"
+    },
+    "rm:is_open_access": true,
+    "see_also": [
+      {
+        "is_downloadable": false,
+        "@id": "https://edpportal.nier.go.jp",
+        "label": "url"
+      }
+    ]
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/41640448",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "41640448",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2023-03-06T08:55:28Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2023-03-06T08:55:28Z",
+    "presentation_title": {
+      "ja": "学習者の自己説明とAIの説明生成の共進化による教育学習支援環境EXAITの研究開発"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "高見享佑"
+        }
+      ]
+    },
+    "event": {
+      "ja": "NEDO「AI NEXT FORUM 2023 -ビジネスとAI最新技術が出会う、新たなイノベーションが芽生える-」"
+    },
+    "publication_date": "2023-02-16",
+    "invited": true,
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/37122534",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "37122534",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-06-08T02:35:41Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-06-08T02:35:41Z",
+    "presentation_title": {
+      "ja": "AIを活用したラーニングアナリティクス研究と今後の展望"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "高見享佑"
+        }
+      ]
+    },
+    "event": {
+      "ja": "New Education Expo 2022 in 東京"
+    },
+    "publication_date": "2022-06-03",
+    "from_event_date": "2022-06-02",
+    "to_event_date": "2022-06-04",
+    "invited": true,
+    "presentation_type": "public_discourse",
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/36500244",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "36500244",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2022-03-14T03:39:58Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2022-03-14T03:46:30Z",
+    "presentation_title": {
+      "ja": "「ラーニングアナリティクスと説明できる AI」"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "高見享佑"
+        }
+      ]
+    },
+    "event": {
+      "ja": "「ラーニングアナリティクスの研究と実践の最新動向」公開シンポジウム、 IT コンソーシアム京都 教育 DX 部会 および （一社）エビデンス駆動型教育研究協議会 共催"
+    },
+    "publication_date": "2022-03-13",
+    "invited": true,
+    "presentation_type": "nominated_symposium",
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/35695320",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "35695320",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-11-02T15:24:13Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2021-11-02T15:27:11Z",
+    "presentation_title": {
+      "en": "Dissociable Behavioral and Neural Correlates for Target-Changing and Conforming Behaviors in Experimental Bullying Situation"
+    },
+    "presenters": {
+      "en": [
+        {
+          "name": "Kyosuke Takami, Masahiko Haruno"
+        }
+      ]
+    },
+    "event": {
+      "en": "World Anti-Bullying Forum 2021"
+    },
+    "publication_date": "2021-11",
+    "presentation_type": "oral_presentation",
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/32107120",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "32107120",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-04-03T10:45:28Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2021-04-03T13:38:18Z",
+    "presentation_title": {
+      "ja": "SNSによる問題事例とその対応 スマホ=学び"
+    },
+    "presenters": {
+      "ja": [
+        {
+          "name": "高見享佑"
+        }
+      ]
+    },
+    "event": {
+      "ja": "大阪府「安全で安心な学校づくり推進事業」テーマ別研修会実践発表"
+    },
+    "publication_date": "2019-11",
+    "invited": true,
+    "rm:is_open_access": false
+  },
+  {
+    "@id": "https://api.researchmap.jp/takamikyo/presentations/32108118",
+    "@type": "presentations",
+    "@reverse": "https://api.researchmap.jp/takamikyo/presentations",
+    "rm:id": "32108118",
+    "rm:user_id": "R000019012",
+    "display": "disclosed",
+    "major_achievement": false,
+    "rm:creator_id": "R000019012",
+    "rm:creator_type": "myself",
+    "rm:created": "2021-04-03T13:22:16Z",
+    "rm:modifier_id": "R000019012",
+    "rm:modifier_type": "myself",
+    "rm:modified": "2021-04-03T13:22:16Z",
+    "presentation_title": {
+      "en": "Behavioral and Functional Connectivity Basis for Peer Influenced Bystander Participation in Bullying"
+    },
+    "presenters": {
+      "en": [
+        {
+          "name": "Kyosuke Takami"
+        },
+        {
+          "name": "Masahiko Haruno"
+        }
+      ]
+    },
+    "event": {
+      "en": "World Anti-Bullying Forum 2019"
+    },
+    "publication_date": "2019-06",
+    "invited": false,
+    "presentation_type": "poster_presentation",
+    "rm:is_open_access": false
+  }
+]

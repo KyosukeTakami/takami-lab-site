@@ -147,7 +147,7 @@ export function normalizeItems(items, type) {
     }
 
     if (type === "research_projects") {
-      const title = text(it.project_title) || text(it.title) || "";
+      const title = text(it.research_project_title) || text(it.project_title) || text(it.title) || "";
       const from = it.from_date || it.starting_date || it.start_date || "";
       const to = it.to_date || it.ending_date || it.end_date || "";
       const role = text(it.role) || it.role || "";
